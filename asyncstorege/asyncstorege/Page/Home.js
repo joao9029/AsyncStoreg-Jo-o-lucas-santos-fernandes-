@@ -51,7 +51,7 @@ export default function App() {
 
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.titulo}>Tarefas</Text>
+      <Text style={styles.titulo}>Lista</Text>
        
 
       <View style={styles.inputArea}>
@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     paddingTop: 20,
   },
   titulo: {
-    marginTop: 40,
+    marginTop: 90,
     fontSize: 26,
     fontWeight: "bold",
     color: "#333",
