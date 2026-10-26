@@ -95,6 +95,7 @@ const styles = StyleSheet.create({
     paddingTop: 20,
   },
   titulo: {
+    marginTop: 40,
     fontSize: 26,
     fontWeight: "bold",
     color: "#333",
